@@ -45,7 +45,7 @@
             background-image: linear-gradient(
                 rgba(0,0,0,0.6),
                 rgba(0,0,0,0.6)
-            ), url("../IMG/marco.png");
+            ), url("../img/marco.png");
 
             background-size: cover;
             background-position: center;
@@ -62,7 +62,7 @@
         .banner2{
             height: 100vh;
 
-            background-image: url('../IMG/pagina.png');
+            background-image: url('../img/pagina.png');
 
             background-size: cover;
             background-position: center;
